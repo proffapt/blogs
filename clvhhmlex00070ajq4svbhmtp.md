@@ -39,6 +39,8 @@ Easily said than understanding the consequences of the revelation. Let's talk ab
     
 * Anyone involved, can *leak* the count during the voting day and this could lead to manipulation of results in various sorts of ways.
     
+* There's that, now think about this, bribing an ERP Developer to tamper with the results :)
+    
 
 Yup that's a serious concern now. Although, not the one which I want you to focus via this blog, please continue reading..
 
