@@ -6,7 +6,6 @@ datePublished: Sat Apr 27 2024 02:33:51 GMT+0000 (Coordinated Universal Time)
 cuid: clvhhmlex00070ajq4svbhmtp
 slug: students-are-guilty
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714186678831/0f3ad5a2-f4e1-4f35-84ca-da66aeb3e71c.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1714186662942/78ae4083-94c8-4e2c-86ce-4090a93882e6.jpeg
 tags: iitkgp, tsg-elections, tsg-elections-leaks
 
 ---
