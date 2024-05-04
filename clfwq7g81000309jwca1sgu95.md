@@ -7,7 +7,6 @@ cuid: clfwq7g81000309jwca1sgu95
 slug: openvpn-server-on-azure
 canonical: https://gist.github.com/proffapt/15cacf6c0abdd5509e5c1b7d2c7a49ce
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714185485394/1698d45d-3015-4f7c-bb5a-33c8d10e2e7f.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1714185384310/d0519f04-1523-4452-9949-def2fcfb6881.png
 tags: azure, vpn, openvpn, iitkgp, openvpn-on-azure
 
 ---
