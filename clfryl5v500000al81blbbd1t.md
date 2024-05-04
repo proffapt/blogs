@@ -7,7 +7,6 @@ cuid: clfryl5v500000al81blbbd1t
 slug: iit-kgp-networking-and-communication
 canonical: https://gist.github.com/proffapt/0f032c3c48ec71b1c8dfe3f383b5431f
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714185523342/16291d19-7489-4ce9-9f41-e7a17dcbfe13.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1714185532659/e9998d1a-3719-4fbe-ac0d-590c203c5d50.png
 tags: network, social-media, iitkgp, iitkgpnetwork, network-documentation
 
 ---
