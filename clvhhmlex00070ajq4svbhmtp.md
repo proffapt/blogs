@@ -12,7 +12,7 @@ tags: iitkgp, tsg-elections, tsg-elections-leaks
 
 ## Pre-Context
 
-Hi there, it's 6AM in the morning and I am writing this. This is not going to be a technical writeup which you might have subscribed me for or expect from me. Rather, this will be my first official blog about my views (I guess? I have written countless of lengthy advises during the time I used to run a cybersecurity group) - coming back to the topic - on a very concerning issue consuming KGP.
+Hi there, it's 6 in the morning and I am writing this. This is not going to be a technical writeup which you might have subscribed me for or expect from me. Rather, this will be my first official blog about my views (I guess? I have written countless of lengthy advises during the time I used to run a cybersecurity group) - coming back to the topic - on a very concerning issue consuming KGP.
 
 ## Context
 
