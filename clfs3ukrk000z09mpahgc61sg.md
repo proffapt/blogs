@@ -13,12 +13,12 @@ tags: directconnect, dc, iitkgp, metahub, eiskaltdcpp
 
 ## Introduction
 
-IIT Kharagpur [**once had**](https://www.quora.com/Which-campus-has-highest-total-share-and-users-on-DC++-in-India) one of the largest DC ([Direct Connect](https://en.wikipedia.org/wiki/Advanced_Direct_Connect)) networks in India. It lost its glory when the pandemic hit and everything went online. This is an effort to restore that glory, by educating students about "*How can one connect to the DC Hub properly*".
+IIT Kharagpur [**once had**](https://www.quora.com/Which-campus-has-highest-total-share-and-users-on-DC++-in-India) one of the largest DC ([Direct Connect](https://en.wikipedia.org/wiki/Advanced_Direct_Connect)) networks in India. It lost its glory when the pandemic hit and everything went off-campus. This is an effort to restore that glory, let’s get started.
 
 ## Installing the client
 
-The IITKGP DC Hub is a private hub and inaccessible from outside the IIT Kharagpur network. Users connect to hubs using DC clients and can share files at high speeds. The most popular hub is [HiT Hi FiT Hai](https://wiki.metakgp.org/w/HiT_Hi_FiT_Hai).  
-There are various DC clients available for different platforms. To name a few, we have
+Metahub -the IIT KGP DC Hub - is a private hub and inaccessible from outside the IIT Kharagpur network. Users connect to the hub using DC clients and can share files at high speeds. Metahub was previously known as [HiT Hi FiT Hai](https://wiki.metakgp.org/w/HiT_Hi_FiT_Hai).  
+There are various DC clients available for different platforms. To name a few, we have:
 
 | Platform | Client(s) |
 | --- | --- |
@@ -36,14 +36,14 @@ Go through the basic installation setup and install it.
 
 #### Linux
 
-Install Eiskalt DC++ on **Debian-based distros** like - *ubuntu, linux mint etc* using the following command
+Install Eiskalt DC++ on **Debian-based distributions** like - *ubuntu, linux mint etc* using the following command
 
 ```bash
 sudo apt install eiskaltdcpp
 ```
 
 > **Note**  
-> If you are not on a Debian-based distro, search for the package name using the package manager your distro uses and install it.
+> If you are not on a Debian-based distribution, search for the package name using the package manager your distribution uses and install it.
 
 #### MacOS
 
@@ -90,13 +90,27 @@ sudo apt install eiskaltdcpp
     > * Other entries are optional, setting or not-setting them will not create any problem in connecting to the hub.
     >     
     
-3. Now Goto: `Connection` &gt; `Advanced` &gt; `TLS settings` and choose `Allow TLS`.
+3. Configure TLS option. Goto: `Connection` &gt; `Advanced` &gt; `TLS settings` and choose `Allow TLS`.
+    
+    > **Note**
+    > 
+    > * **This is an ambiguous setting. If** `Allow TLS` option doesn’t work for you, you can try other available options. This is further detailed in [**Some Common Issues**](https://proffapt.hashnode.dev/dc-client-setup#heading-some-common-issues) **section.**
+    >     
     
     ![image](https://user-images.githubusercontent.com/86282911/223126546-7bbd64fd-e098-4427-91f0-0eaaf80c1ef1.png align="left")
     
-4. Now click `Ok`.
+4. Configure downloads directory. Goto: `Downloads` &gt; `Downloads`.
     
-5. Press the following key combination for the quick connect dialog box, according to your platform.
+    > Note
+    > 
+    > * Make sure to configure both, `Downloads Directory` and `Unfinished Downloads Directory`.
+    >     
+    
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726335824323/92bae8a1-f62e-4cf1-b507-eaec5b362edf.jpeg align="center")
+    
+5. Now click `Ok`.
+    
+6. Press the following key combination for the quick connect dialog box, according to your platform.
     
     * `Windows`: **ctrl+n**
         
@@ -104,26 +118,26 @@ sudo apt install eiskaltdcpp
         
     * `macOS`: **cmd+n**
         
-6. Enter the domain for MetaHub - `dc.metakgp.org` - to connect. Press `Ok`.
+7. Enter the domain for MetaHub - `dc.metakgp.org` - to connect. Press `Ok`.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696227283202/fef0c0a9-705a-472c-8c96-e99d3339d406.png align="center")
     
-    > **Note**
+    > **<mark>Warning</mark>**
     > 
-    > Refer to [this page](https://wiki.metakgp.org/w/DC) for official updates on the Hub IP and MetaHub as a whole.
+    > Do not use any IP. We have deprecated the usage of IPs and have migrated to the above mentioned domain.
     
-7. You should now be connected to the hub and if the fonts are set properly you should see something like this.
+8. You should now be connected to the hub and if the fonts are set properly you should see something like this.
     
     ![image](https://user-images.githubusercontent.com/86282911/223134018-c1f1c1f2-4272-4611-bc39-d62fe42cbd2a.png align="left")
     
     > NOTE:
     > 
-    > * *Just focus on the Prompts and that you are connected, your exact GUI will be different since I customized mine to not bleed my eyes.*
+    > * *Just focus on the Prompts and that you are connected, your exact GUI will be different since I customised mine to not bleed my eyes.*
     >     
     > * To properly render (display) the "**METAHUB**" text as shown in the screenshot above follow the steps in the "[Rendering MOTD](https://proffapt.hashnode.dev/dc-client-setup#heading-rendering-motd)" section.
     >     
     
-8. You *may* encounter one of these common issues::
+9. You *may* encounter one of these common issues::
     
     * Connected to the hub but unable to browse or download files.
         
