@@ -7,7 +7,7 @@ cuid: clfs3ukrk000z09mpahgc61sg
 slug: dc-client-setup
 canonical: https://gist.github.com/proffapt/5785ae1ddf34728f24805c2bc9ba23c8
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680280077071/1991e8a6-cb56-41bc-934c-63c6277277d0.png
-tags: directconnect, dc, iitkgp, metahub, eiskaltdcpp
+tags: directconnect, dc, iitkgp, metahub, eiskaltdcpp, kgp, hithaifithai, hit-hai-fit-hai
 
 ---
 
